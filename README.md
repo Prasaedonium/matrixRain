@@ -2,7 +2,7 @@
 Digital Rain, Matrix style. HTML+CSS+JS only.
 
 This is an animation to create something similar to the Digital Rain from the Matrix movies.
-![matrix]()
+![matrix](.digitalRain.gif)
 
 It's based on https://codepen.io/yaclive/pen/EayLYO by Clive Cooper, I just edited the letters variable and did a few changes, such as adding the CRT filter. 
 
